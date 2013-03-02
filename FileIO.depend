@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1359504960 source:c:\users\nahed yakan\desktop\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1359504962 source:g:\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1359736626 source:e:\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1360299620 source:c:\documents and settings\flo\my documents\l\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
